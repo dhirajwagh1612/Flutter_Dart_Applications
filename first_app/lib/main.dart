@@ -8,7 +8,7 @@ void main(){
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          title: Text('Speech Markers Private Limited Pune'),
+          title: Text('My_First_App'),
           backgroundColor: Colors.blueGrey[900],
         ),
         body: Center(
